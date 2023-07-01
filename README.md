@@ -6,4 +6,4 @@ Plover plugin for an extended Stenotype layout.
 
 But with added X keys suitable for Plover HID usage.
 
-Based on sammdot/plover-stenotype-extended
+Based on [sammdot/plover-stenotype-extended](https://github.com/sammdot/plover-stenotype-extended)
